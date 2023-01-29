@@ -9,6 +9,14 @@
 <strong>
 First of all, if you're looking for the <strong>BEST</strong> Roblox Lua Http Sniffer, you should check <a href="https://github.com/DaFrenchTokio/Sniff">Sniff</a>!
 <br><br>
+  
+-----
+
+### <p align="center">🫧 How To Use It 🫧</p>
+
+```
+print('Hello World')
+```
 
 -----
 
