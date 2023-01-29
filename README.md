@@ -15,7 +15,11 @@ First of all, if you're looking for the <strong>BEST</strong> Roblox Lua Http Sn
 ### <p align="center">🫧 How To Use It 🫧</p>
 
 ```
-print('Hello World')
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/DaFrenchTokio/Sniff/main/lua.lua"),true))()
+Sniff_CoreConfig = {
+	RConsoleprint = true,
+	SniffWebhooks = true
+}
 ```
 
 -----
