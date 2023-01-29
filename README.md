@@ -15,8 +15,9 @@ First of all, if you're looking for the <strong>BEST</strong> Roblox Lua Http Sn
 ### <p align="center">🫧 How To Use It 🫧</p>
 
 ```
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/DaFrenchTokio/Sniff/main/lua.lua"),true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/DaFrenchTokio/Sniff/main/hsniff.lua"),true))()
 Sniff_CoreConfig = {
+	results = {},
 	RConsoleprint = true,
 	SniffWebhooks = true
 }
